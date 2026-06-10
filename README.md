@@ -1,5 +1,5 @@
 #  FUTURE_PE_01                                                      
-** AI Website Copy Generator — GlowRoots Skincare**
+**AI Website Copy Generator — GlowRoots Skincare**
 
 
 ---
