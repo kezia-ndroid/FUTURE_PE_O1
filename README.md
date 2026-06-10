@@ -1,5 +1,6 @@
-# AI Website Copy Generator — GlowRoots Skincare
-**Future Interns · Prompt Engineering Task 1 · 2026**
+#  FUTURE_PE_01                                                      
+** AI Website Copy Generator — GlowRoots Skincare**
+
 
 ---
 
